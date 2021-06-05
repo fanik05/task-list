@@ -1,0 +1,1 @@
+A vanilla js project utilizing local storage
